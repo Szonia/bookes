@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Gyűrűk Ura",
+      "author": "J. R. R. Tolkien",
+      "price": 4000
+    },
+    {
+      "id": 2,
+      "title": "Dűne",
+      "author": "Frank Herbert",
+      "price": 6640
+    },
+    {
+      "id": 3,
+      "title": "Harry Potter és a bölcsek köve",
+      "author": "J. K. ROWLING",
+      "price": 5000
+    },
+    {
+      "id": 4,
+      "title": "Star Wars: Padavan",
+      "author": "Kiersten White",
+      "price": 2995
+    }
+  ]
+}

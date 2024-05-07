@@ -1,0 +1,19 @@
+/* File: style.css
+Author:  Szamosfalvi Szonja
+Copyright: 2024, Szamosfalvi Szonja
+Group: Szoft I-1-N
+Date: 2024-05-07
+Github: https://github.com/szonia/
+Licenc: GNU GPL */
+
+h1 {
+    margin-top: 80px;
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(248, 245, 245);
+    font-family:'Times New Roman', Times, serif;
+}
+
